@@ -1,0 +1,9 @@
+* blackbird
+
+A standalone promise implementation for Commmon Lisp.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/orthecreedence/blackbird.git |
+| commit  | abe3696                                             |
+| systems | blackbird                                           |
+|---------+-----------------------------------------------------|
