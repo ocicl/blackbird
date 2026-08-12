@@ -7,4 +7,4 @@ A standalone promise implementation for Commmon Lisp.
 | commit  | 1ec17c5                                             |
 | systems | blackbird                                           |
 |---------+-----------------------------------------------------|
- 
+  
